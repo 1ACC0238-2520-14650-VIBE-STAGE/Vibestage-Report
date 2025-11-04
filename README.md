@@ -1959,6 +1959,31 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 
 <img width="750" height="571" alt="Image" src="https://github.com/user-attachments/assets/e0d7395b-90c1-41ad-8095-3d3cc2582f74" />
 
+#### 4.2.2. *Sprint 2*
+**4.2.2.1.** Sprint Planning 2
+
+**4.2.2.2.** Sprint Backlog 2
+
+**4.2.2.3.** Development Evidence for Sprint Review
+
+**4.2.2.4.** Testing Suite Evidence for Sprint Review
+
+**4.2.1.5.** Execution Evidence for Sprint Review
+
+**4.2.1.6.** Services Documentation Evidence for Sprint Review
+
+**4.2.1.8.** Team Collaboration Insights during Sprint
+En esta sección se presentarán las evidencias que reflejan el trabajo colaborativo realizado durante el desarrollo del proyecto VibeStage.
+
+**Report**
+
+
+**Landing Page**
+
+
+**Mobile App**
+
+
 ### 4.3 Validation Interviews
 #### 4.3.1 Diseño de entrevistas
 
