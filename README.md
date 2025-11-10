@@ -1985,6 +1985,7 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 **4.2.2.5.** Execution Evidence for Sprint Review
 
 **4.2.2.6.** Services Documentation Evidence for Sprint Review
+
 Durante el Sprint 2 se llevaron a cabo importantes avances tanto en el desarrollo como en la documentación del proyecto. En esta etapa, se actualizó la Landing Page, incorporando mejoras visuales y de contenido, entre ellas la inclusión de imágenes que muestran las principales funcionalidades de nuestra aplicación. Además, se añadieron los primeros videos “About the Team” y “About the Product”, con el objetivo de ofrecer una presentación más completa y atractiva de nuestro trabajo. También, se culminó el desarrollo del backend, logrando su implementación y despliegue exitoso. Todo el proceso se realizó de manera colaborativa, con un control de versiones constante que permitió mantener la trazabilidad de los cambios, asegurar la calidad del código y cumplir con los objetivos definidos para este sprint. 
 
 **4.2.1.7.** Software Deployment Evidence for Sprint Review
