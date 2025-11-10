@@ -1962,6 +1962,20 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 #### 4.2.2. *Sprint 2*
 **4.2.2.1.** Sprint Planning 2
 
+| **Sprint #** | **Sprint 1** |
+|---------------|--------------|
+| **Sprint Planning Background** | |
+| **Date** | 11/11/2025 |
+| **Time** | 16:00 pm |
+| **Location** | Modalidad remota por Meet |
+| **Prepared By** | Equipo VibeStage |
+| **Attendees** | Todos los miembros del grupo VibeStage |
+| **Sprint n - 2 Review Summary** | Se agrego algunas secciones y mejoró nuestra **Landing Page** y realizamos una segunda versión de la **Aplicación móvil**, ambas alineadas con los objetivos del proyecto *VibeStage*. <br><br> **Landing Page:** Se agregaron imagenes de la aplicacion y se mejoro unos pequeños errores que presentaba <br><br> **Aplicación móvil:** Terminamos con la aplicacion en lenguaje Kotlin, tambien terminamos con el desarrollo de nuestro Backend.  <br><br> |
+| **Sprint n - 1 Retrospective Summary** | **Puntos positivos:** Se logró cumplir con del Sprint 1, entregando una experiencia funcional tanto en la web como en la app. Se consolidó la base de la arquitectura, diseño visual, navegación, e internacionalización. <br> **Aspectos destacados:** Se trabajo de manera exitosa el sprint <br> **Próximos pasos:** El principal es finalizar con lo correspondiente al Backend y comenzar la implementacion de nuestra App en lenguaje Flutter. |
+| **Sprint Goal & User Stories** | **Objetivo del Sprint 1:** Implementar la base visual y funcional de *VibeStage* (Landing Page y App Móvil) para presentar el propósito del producto, atraer nuevos usuarios (artistas y promotores) y establecer el flujo inicial de registro y navegación por rol. <br><br> |
+| **Sprint 1 Velocity** | **Total de HU completadas:** 10   |  **Velocidad total:** 10 puntos |  **Estado general:** Sprint 2 completado con todos los entregables y alineados al MVP de VibeStage. |
+
+
 **4.2.2.2.** Sprint Backlog 2
 
 **4.2.2.3.** Development Evidence for Sprint Review
