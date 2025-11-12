@@ -1983,6 +1983,30 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 **4.2.2.4.** Testing Suite Evidence for Sprint Review
 
 **4.2.2.5.** Execution Evidence for Sprint Review
+**Landing Page**
+
+<img width="1491" height="774" alt="image" src="https://github.com/user-attachments/assets/628fc7f0-514c-4aaf-a90a-06796fd8ffd2" />
+
+<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/000615db-1598-496e-82f5-9e756d7037e2" />
+
+<img width="1443" height="703" alt="image" src="https://github.com/user-attachments/assets/572920e7-5ae9-41ef-8fe3-32c0af2fba48" />
+
+<img width="1486" height="817" alt="image" src="https://github.com/user-attachments/assets/c02701b3-ae2b-4401-8f40-8f601ec53d15" />
+
+<img width="1491" height="717" alt="image" src="https://github.com/user-attachments/assets/321419f2-6a31-412f-b1e4-021cbadc115e" />
+
+
+**Mobile App**
+
+
+
+**Backend**
+![Image](https://github.com/user-attachments/assets/8fd8e2cf-61b9-4289-bfe1-76826bf0e839)
+
+![Image](https://github.com/user-attachments/assets/8c5b5d07-efe5-49fd-ac39-accefc19af71)
+
+![Image](https://github.com/user-attachments/assets/fbe09557-8753-47b0-858f-c3ec87014efe)
+
 
 **4.2.2.6.** Services Documentation Evidence for Sprint Review
 
