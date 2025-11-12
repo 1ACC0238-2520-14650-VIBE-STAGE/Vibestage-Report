@@ -1976,7 +1976,49 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 | **Sprint 1 Velocity** | **Total de HU completadas:** 10   |  **Velocidad total:** 10 puntos |  **Estado general:** Sprint 2 completado con todos los entregables y alineados al MVP de VibeStage. |
 
 
-**4.2.2.2.** Sprint Backlog 2
+**4.2.2.2. Sprint Backlog 2**
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se deben realizar para completar el Sprint. A continuación, se detallan los User Stories asignados al Sprint junto con sus Work-Items/Tasks correspondientes.
+
+| **Sprint #** | **Sprint 2** |
+|---------------|--------------|
+
+| **User Story** | **Work-Item / Task** | | | | | |
+|----------------|----------------------|---|---|---|---|---|
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
+
+| **US08** | Dashboard del artista | **T32** | Mejorar UI del dashboard | Ajustar diseño, tarjetas e iconografía. | 3 | Carlos Álvarez | In-Process |
+| | | **T33** | Integrar dashboard con backend | Conectar perfil, agenda y pagos desde API. | 4 | Stephano Landauri | To-do |
+
+| **US15** | Dashboard del promotor/local | **T34** | Optimizar diseño del panel del promotor | Ajustar visual del panel administrativo del promotor. | 3 | Gabriel Lapa | To-do |
+| | | **T35** | Integración Backend | Conectar publicaciones, solicitudes y eventos desde API. | 4 | Stephano Landauri | In-Process |
+
+| **US09** | Búsqueda de eventos | **T36** | Implementar filtros avanzados | Filtros por género, ubicación, disponibilidad y afinidad. | 3.5 | Juan Paul Llamccaya | To-do |
+| | | **T37** | Integrar motor de recomendación | Conectar búsqueda con afinidad musical desde backend. | 4 | Rafael Cuya | To-do |
+
+| **US10** | Postulación rápida a eventos | **T38** | Crear botón de postulación | Activar acción de postular con confirmación visual. | 2 | Carlos Álvarez | To-do |
+| | | **T39** | Integrar API de postulación | Consumir endpoint para enviar solicitud del artista. | 3 | Stephano Landauri | In-Process |
+
+| **US39** | Lista de shows del artista | **T40** | Crear vista por estado | Mostrar shows confirmados, pendientes y completados. | 3 | Rafael Cuya | To-do |
+| | | **T41** | Integrar estados con backend | Conectar estatus con API. | 3 | Gabriel Lapa | To-do |
+
+| **US40** | Lista de eventos del promotor | **T42** | Crear vista categorizada | Mostrar eventos próximos, en curso y completados. | 3 | Juan Paul Llamccaya | To-do |
+| | | **T43** | Integrar eventos con backend | Mostrar datos reales de la API de eventos. | 3.5 | Stephano Landauri | To-do |
+
+| **US33** | Pagos del artista | **T44** | Crear tabla de pagos | Mostrar historial, estados y montos. | 2.5 | Rafael Cuya | To-do |
+| | | **T45** | Conectar módulo de pagos | Integrar lógica de escrow con backend. | 3 | Stephano Landauri | To-do |
+
+| **US11** | Perfil del artista | **T46** | Mejorar UI del perfil | Rediseño de biografía, fotos y multimedia. | 3 | Carlos Álvarez | To-do |
+| | | **T47** | Integración multimedia backend | Subida y gestión de archivos multimedia. | 4 | Rafael Cuya | In-Process |
+
+| **Backend** | Servicios Backend | **T48** | Finalizar endpoints principales | Eventos, usuarios, postulaciones, login y perfiles. | 6 | Stephano Landauri | In-Process |
+| | | **T49** | Pruebas unitarias backend | Validación completa de la API. | 4 | Rafael Cuya | To-do |
+| | | **T50** | Seguridad y JWT | Implementación de tokens para autenticación. | 3 | Juan Paul Llamccaya | To-do |
+
+| **Flutter** | App Flutter | **T51** | Crear proyecto base | Configuración inicial, dependencias y estructura. | 3 | Gabriel Lapa | To-do |
+| | | **T52** | Implementar login en Flutter | Conectar el login móvil con la API finalizada. | 4 | Stephano Landauri | To-do |
+| | | **T53** | Crear Home inicial | Pantalla base con menú y navegación inicial. | 3 | Carlos Álvarez | To-do |
+
 
 **4.2.2.3.** Development Evidence for Sprint Review
 
