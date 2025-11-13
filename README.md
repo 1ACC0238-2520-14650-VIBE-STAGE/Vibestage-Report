@@ -2157,7 +2157,7 @@ El uso de GitHub como repositorio compartido nos ayudó a organizarnos mejor y a
 ## Anexos
 Landing-Page: https://1acc0238-2520-14650-vibe-stage.github.io/Landing-Page/ 
 Video About the product: https://youtube.com/shorts/skEPk4BmW1k
-Video About the team: 
+Video About the team: https://youtu.be/lofC9qWl6Vg
 
 
 
