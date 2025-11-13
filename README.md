@@ -1966,6 +1966,117 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 
 <img width="750" height="571" alt="Image" src="https://github.com/user-attachments/assets/e0d7395b-90c1-41ad-8095-3d3cc2582f74" />
 
+#### 4.2.2. *Sprint 2*
+**4.2.2.1.** Sprint Planning 2
+
+| **Sprint #** | **Sprint 1** |
+|---------------|--------------|
+| **Sprint Planning Background** | |
+| **Date** | 11/11/2025 |
+| **Time** | 16:00 pm |
+| **Location** | Modalidad remota por Meet |
+| **Prepared By** | Equipo VibeStage |
+| **Attendees** | Todos los miembros del grupo VibeStage |
+| **Sprint n - 2 Review Summary** | Se agrego algunas secciones y mejoró nuestra **Landing Page** y realizamos una segunda versión de la **Aplicación móvil**, ambas alineadas con los objetivos del proyecto *VibeStage*. <br><br> **Landing Page:** Se agregaron imagenes de la aplicacion y se mejoro unos pequeños errores que presentaba <br><br> **Aplicación móvil:** Terminamos con la aplicacion en lenguaje Kotlin, tambien terminamos con el desarrollo de nuestro Backend.  <br><br> |
+| **Sprint n - 1 Retrospective Summary** | **Puntos positivos:** Se logró cumplir con del Sprint 1, entregando una experiencia funcional tanto en la web como en la app. Se consolidó la base de la arquitectura, diseño visual, navegación, e internacionalización. <br> **Aspectos destacados:** Se trabajo de manera exitosa el sprint <br> **Próximos pasos:** El principal es finalizar con lo correspondiente al Backend y comenzar la implementacion de nuestra App en lenguaje Flutter. |
+| **Sprint Goal & User Stories** | **Objetivo del Sprint 2:**Realizar correcciones y finalizar con el desarrollo de la version de Landing Page y App Móvil. También finalizar con el Backend de nuestra app y empezar con el desarrollo de nuestra aplicacion en lenguaje Flutter. <br><br> |
+| **Sprint 1 Velocity** | **Total de HU completadas:** 10   |  **Velocidad total:** 10 puntos |  **Estado general:** Sprint 2 completado con todos los entregables y alineados al MVP de VibeStage. |
+
+
+**4.2.2.2. Sprint Backlog 2**
+
+En esta sección se detallan los User Stories asignados al Sprint junto con los Work-Items/Tasks correspondientes.
+
+| **Sprint #** | **Sprint 2** |
+|--------------|--------------|
+
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------|-------------|----------------|------------------|-------------------------|------------------|-------------|
+| US08 | Dashboard del artista | T32 | Mejorar UI del dashboard | Ajustar diseño, tarjetas e iconografía. | 3 | Carlos Álvarez | In-Process |
+|  |  | T33 | Integrar dashboard con backend | Conectar perfil, agenda y pagos desde API. | 4 | Stephano Landauri | To-do |
+| US15 | Dashboard del promotor/local | T34 | Optimizar diseño del panel | Ajustar visual del panel administrativo del promotor. | 3 | Gabriel Lapa | To-do |
+|  |  | T35 | Integración Backend | Conectar publicaciones, solicitudes y eventos desde API. | 4 | Stephano Landauri | In-Process |
+| US09 | Búsqueda de eventos | T36 | Implementar filtros avanzados | Filtros por género, ubicación, disponibilidad y afinidad. | 3.5 | Juan Paul Llamccaya | To-do |
+|  |  | T37 | Integrar motor de recomendación | Conectar búsqueda con afinidad musical desde backend. | 4 | Rafael Cuya | To-do |
+| US10 | Postulación rápida a eventos | T38 | Crear botón de postulación | Activar acción de postular con confirmación visual. | 2 | Carlos Álvarez | To-do |
+|  |  | T39 | Integrar API de postulación | Consumir endpoint para enviar solicitud del artista. | 3 | Stephano Landauri | In-Process |
+| US39 | Lista de shows del artista | T40 | Crear vista por estado | Mostrar shows confirmados, pendientes y completados. | 3 | Rafael Cuya | To-do |
+|  |  | T41 | Integrar estados con backend | Conectar estatus con API. | 3 | Gabriel Lapa | To-do |
+| US40 | Lista de eventos del promotor | T42 | Crear vista categorizada | Mostrar eventos próximos, en curso y completados. | 3 | Juan Paul Llamccaya | To-do |
+|  |  | T43 | Integrar eventos con backend | Mostrar datos reales de la API de eventos. | 3.5 | Stephano Landauri | To-do |
+| US33 | Pagos del artista | T44 | Crear tabla de pagos | Mostrar historial, estados y montos. | 2.5 | Rafael Cuya | To-do |
+|  |  | T45 | Conectar módulo de pagos | Integrar lógica de escrow con backend. | 3 | Stephano Landauri | To-do |
+| US11 | Perfil del artista | T46 | Mejorar UI del perfil | Rediseño de biografía, fotos y multimedia. | 3 | Carlos Álvarez | To-do |
+|  |  | T47 | Integración multimedia backend | Subida y gestión de archivos multimedia. | 4 | Rafael Cuya | In-Process |
+| Backend | Servicios Backend | T48 | Finalizar endpoints principales | Eventos, usuarios, postulaciones, login y perfiles. | 6 | Stephano Landauri | In-Process |
+|  |  | T49 | Pruebas unitarias backend | Validación completa de la API. | 4 | Rafael Cuya | To-do |
+|  |  | T50 | Seguridad y JWT | Implementación de tokens para autenticación. | 3 | Juan Paul Llamccaya | To-do |
+| Flutter | App Flutter | T51 | Crear proyecto base | Configuración inicial, dependencias y estructura. | 3 | Gabriel Lapa | To-do |
+|  |  | T52 | Implementar login en Flutter | Conectar login móvil con API. | 4 | Stephano Landauri | To-do |
+|  |  | T53 | Crear Home inicial | Pantalla base con menú y navegación. | 3 | Carlos Álvarez | To-do |
+
+
+**4.2.2.3.** Development Evidence for Sprint Review
+
+<img width="1077" height="743" alt="Image" src="https://github.com/user-attachments/assets/fb7d9c4c-e1be-4557-986f-c13cd0bbf2f9" />
+
+<img width="1089" height="704" alt="Image" src="https://github.com/user-attachments/assets/2f86254e-6476-4939-a77c-415f1bdcd407" />
+
+**4.2.2.4.** Testing Suite Evidence for Sprint Review
+
+**4.2.2.5.** Execution Evidence for Sprint Review
+**Landing Page**
+
+<img width="1491" height="774" alt="image" src="https://github.com/user-attachments/assets/628fc7f0-514c-4aaf-a90a-06796fd8ffd2" />
+
+<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/000615db-1598-496e-82f5-9e756d7037e2" />
+
+<img width="1443" height="703" alt="image" src="https://github.com/user-attachments/assets/572920e7-5ae9-41ef-8fe3-32c0af2fba48" />
+
+<img width="1486" height="817" alt="image" src="https://github.com/user-attachments/assets/c02701b3-ae2b-4401-8f40-8f601ec53d15" />
+
+<img width="1498" height="817" alt="Image" src="https://github.com/user-attachments/assets/7dde20d1-45df-4c55-9fae-00f112c3218c" />
+
+<img width="1491" height="717" alt="image" src="https://github.com/user-attachments/assets/321419f2-6a31-412f-b1e4-021cbadc115e" />
+
+
+**Mobile App**
+
+**Vistas Artista**
+![Image](https://github.com/user-attachments/assets/d982f6a4-aedd-4849-bc58-afc74c13b911) ![Image](https://github.com/user-attachments/assets/8c9db8e3-1400-4e45-9e4d-178ad5f206a7) ![Image](https://github.com/user-attachments/assets/f2a8bc50-f1be-41a8-9bd1-c3f86f03f72d) ![Image](https://github.com/user-attachments/assets/550b15ef-bfda-4a2a-8712-543c758df5c2) ![Image](https://github.com/user-attachments/assets/1dd1f3c0-1438-4985-9025-d367dc6c2514) ![Image](https://github.com/user-attachments/assets/cc586a26-a831-484b-8fc7-3e123486e969)
+![Image](https://github.com/user-attachments/assets/aa64fb5c-2ba8-4df8-890a-80f3efdad861) ![Image](https://github.com/user-attachments/assets/ba66f262-36b9-492a-ba07-85a38a24f5ad) ![Image](https://github.com/user-attachments/assets/20805870-74c8-4ad6-a19d-86f970b9f708) 
+
+**Vistas Promotor**
+
+![Image](https://github.com/user-attachments/assets/de8f7d2a-9f42-4d40-936a-49d8ae3f29f5) ![Image](https://github.com/user-attachments/assets/96dd58c2-090b-4505-895b-957ade57f901)  ![Image](https://github.com/user-attachments/assets/66490ca1-c213-458a-9f5e-0575303f6e24) ![Image](https://github.com/user-attachments/assets/892c3789-83b8-4767-9561-3355d4195f0d) ![Image](https://github.com/user-attachments/assets/9acb0d9c-9f19-4e98-a712-ff55885239a6) ![Image](https://github.com/user-attachments/assets/72508c2f-aad0-48af-b401-7a6906a6a864)
+
+
+**Backend**
+![Image](https://github.com/user-attachments/assets/8fd8e2cf-61b9-4289-bfe1-76826bf0e839)
+
+![Image](https://github.com/user-attachments/assets/8c5b5d07-efe5-49fd-ac39-accefc19af71)
+
+![Image](https://github.com/user-attachments/assets/fbe09557-8753-47b0-858f-c3ec87014efe)
+
+
+**4.2.2.6.** Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2 se llevaron a cabo importantes avances tanto en el desarrollo como en la documentación del proyecto. En esta etapa, se actualizó la Landing Page, incorporando mejoras visuales y de contenido, entre ellas la inclusión de imágenes que muestran las principales funcionalidades de nuestra aplicación. Además, se añadieron los primeros videos “About the Team” y “About the Product”, con el objetivo de ofrecer una presentación más completa y atractiva de nuestro trabajo. También, se culminó el desarrollo del backend, logrando su implementación y despliegue exitoso. Todo el proceso se realizó de manera colaborativa, con un control de versiones constante que permitió mantener la trazabilidad de los cambios, asegurar la calidad del código y cumplir con los objetivos definidos para este sprint. 
+
+**4.2.1.7.** Software Deployment Evidence for Sprint Review
+
+**4.2.2.8.** Team Collaboration Insights during Sprint
+En esta sección se presentarán las evidencias que reflejan el trabajo colaborativo realizado durante el desarrollo del proyecto VibeStage.
+
+**Report**
+
+
+**Landing Page**
+
+
+**Mobile App**
+
+
 ### 4.3 Validation Interviews
 #### 4.3.1 Diseño de entrevistas
 
