@@ -2011,6 +2011,10 @@ En esta sección se detallan los User Stories asignados al Sprint junto con los 
 
 **4.2.2.3.** Development Evidence for Sprint Review
 
+<img width="1077" height="743" alt="Image" src="https://github.com/user-attachments/assets/fb7d9c4c-e1be-4557-986f-c13cd0bbf2f9" />
+
+<img width="1089" height="704" alt="Image" src="https://github.com/user-attachments/assets/2f86254e-6476-4939-a77c-415f1bdcd407" />
+
 **4.2.2.4.** Testing Suite Evidence for Sprint Review
 
 **4.2.2.5.** Execution Evidence for Sprint Review
@@ -2024,11 +2028,20 @@ En esta sección se detallan los User Stories asignados al Sprint junto con los 
 
 <img width="1486" height="817" alt="image" src="https://github.com/user-attachments/assets/c02701b3-ae2b-4401-8f40-8f601ec53d15" />
 
+<img width="1498" height="817" alt="Image" src="https://github.com/user-attachments/assets/7dde20d1-45df-4c55-9fae-00f112c3218c" />
+
 <img width="1491" height="717" alt="image" src="https://github.com/user-attachments/assets/321419f2-6a31-412f-b1e4-021cbadc115e" />
 
 
 **Mobile App**
 
+**Vistas Artista**
+![Image](https://github.com/user-attachments/assets/d982f6a4-aedd-4849-bc58-afc74c13b911) ![Image](https://github.com/user-attachments/assets/8c9db8e3-1400-4e45-9e4d-178ad5f206a7) ![Image](https://github.com/user-attachments/assets/f2a8bc50-f1be-41a8-9bd1-c3f86f03f72d) ![Image](https://github.com/user-attachments/assets/550b15ef-bfda-4a2a-8712-543c758df5c2) ![Image](https://github.com/user-attachments/assets/1dd1f3c0-1438-4985-9025-d367dc6c2514) ![Image](https://github.com/user-attachments/assets/cc586a26-a831-484b-8fc7-3e123486e969)
+![Image](https://github.com/user-attachments/assets/aa64fb5c-2ba8-4df8-890a-80f3efdad861) ![Image](https://github.com/user-attachments/assets/ba66f262-36b9-492a-ba07-85a38a24f5ad) ![Image](https://github.com/user-attachments/assets/20805870-74c8-4ad6-a19d-86f970b9f708) 
+
+**Vistas Promotor**
+
+![Image](https://github.com/user-attachments/assets/de8f7d2a-9f42-4d40-936a-49d8ae3f29f5) ![Image](https://github.com/user-attachments/assets/96dd58c2-090b-4505-895b-957ade57f901)  ![Image](https://github.com/user-attachments/assets/66490ca1-c213-458a-9f5e-0575303f6e24) ![Image](https://github.com/user-attachments/assets/892c3789-83b8-4767-9561-3355d4195f0d) ![Image](https://github.com/user-attachments/assets/9acb0d9c-9f19-4e98-a712-ff55885239a6) ![Image](https://github.com/user-attachments/assets/72508c2f-aad0-48af-b401-7a6906a6a864)
 
 
 **Backend**
