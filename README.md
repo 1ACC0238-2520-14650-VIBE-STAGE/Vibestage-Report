@@ -2069,13 +2069,10 @@ Durante el Sprint 2 se llevaron a cabo importantes avances tanto en el desarroll
 En esta sección se presentarán las evidencias que reflejan el trabajo colaborativo realizado durante el desarrollo del proyecto VibeStage.
 
 **Report**
-
+<img width="646" height="811" alt="Image" src="https://github.com/user-attachments/assets/f66ef678-45d0-4ef9-bc9b-145f3fc74fb4" />
 
 **Landing Page**
-
-
-**Mobile App**
-
+<img width="642" height="375" alt="Image" src="https://github.com/user-attachments/assets/1d0e925f-1722-41c9-9eaf-b9675ecaec3f" />
 
 ### 4.3 Validation Interviews
 #### 4.3.1 Diseño de entrevistas
@@ -2156,7 +2153,8 @@ El uso de GitHub como repositorio compartido nos ayudó a organizarnos mejor y a
 
 ## Anexos
 Landing-Page: https://1acc0238-2520-14650-vibe-stage.github.io/Landing-Page/ 
-
+Video About the product: https://youtube.com/shorts/skEPk4BmW1k
+Video About the team: 
 
 
 
