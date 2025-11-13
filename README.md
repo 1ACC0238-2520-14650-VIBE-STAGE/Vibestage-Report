@@ -1962,7 +1962,7 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 #### 4.2.2. *Sprint 2*
 **4.2.2.1.** Sprint Planning 2
 
-| **Sprint #** | **Sprint 1** |
+| **Sprint #** | **Sprint 2** |
 |---------------|--------------|
 | **Sprint Planning Background** | |
 | **Date** | 11/11/2025 |
