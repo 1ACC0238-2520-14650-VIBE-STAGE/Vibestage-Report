@@ -19,11 +19,11 @@
   </tr>
   <tr>
     <td style="text-align:left; padding:4px 12px;"><strong>NRC:</strong></td>
-    <td style="text-align:left; padding:4px 12px;">1827</td>
+    <td style="text-align:left; padding:4px 12px;">14650</td>
   </tr>
   <tr>
     <td style="text-align:left; padding:4px 12px;"><strong>Docente:</strong></td>
-    <td style="text-align:left; padding:4px 12px;">David Gerardo Quevedo Velasco</td>
+    <td style="text-align:left; padding:4px 12px;">Eduardo Martín Reyes Rodríguez</td>
   </tr>
 </table>
 
