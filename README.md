@@ -1,61 +1,66 @@
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="180"><br><br>
+<!-- caratula.md -->
+<div style="text-align:center; margin-top: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="160" alt="UPC logo"><br><br>
 
-   <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-   <strong>Ingeniería de Software</strong><br>
-   <br>
-   <strong>Periodo: 202520</strong><br>
-   <strong>1ACC0238 | Aplicaciones para Dispositivos Móviles</strong><br>
-   <strong>NRC: 1827</strong><br>
-   <strong>Docente: David Gerardo Quevedo Velasco</strong><br>
-</p>
+  <strong style="font-size:18px;">Universidad Peruana de Ciencias Aplicadas</strong><br>
+  <strong>Ingeniería de Software</strong><br><br>
 
----
+  <div style="display:inline-block; text-align:left; max-width:650px;">
+    <p style="margin:8px 0;"><strong>Periodo:</strong> 202520</p>
+    <p style="margin:8px 0;"><strong>1ACC0238 | Aplicaciones para Dispositivos Móviles</strong></p>
+    <p style="margin:8px 0;"><strong>NRC:</strong> 1827</p>
+    <p style="margin:8px 0;"><strong>Docente:</strong> David Gerardo Quevedo Velasco</p>
+  </div>
+</div>
 
-<p align="center">
-   <strong>Informe del TB2</strong><br><br>
-    
-   <strong>Startup: Vibestage</strong><br>
-   <strong>Producto: VibeStage </strong><br>
-</p>
+<hr style="width:80%; margin: 28px auto;">
 
-<br>
-
-<h3 align="center">Integrantes:</h3>
-
-<table align="center">
-    <tr>
-        <th style="text-align:center;">Código</th>
-        <th style="text-align:center;">Nombre</th>
-    </tr>
-    <tr>
-        <td style="text-align:center;">U201923571</td>
-        <td style="text-align:center;">Llamccaya Arone, Juan Paul</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">U201913495</td>
-        <td style="text-align:center;">Cuya Villegas, Rafael Alberto</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">U202216831</td>
-        <td style="text-align:center;">Lapa de la Cruz, Gabriel Omar</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">U202311828</td>
-        <td style="text-align:center;">Landauri Preciado, Stephano</td>
-    </tr>
-    <tr>
-        <td style="text-align:center;">U201919386</td>
-        <td style="text-align:center;">Álvarez Ponce, Carlos Antonio</td>
-    </tr>
-</table>
+<div style="text-align:center;">
+  <h2 style="margin: 8px 0;">Informe del TB2</h2>
+  <p style="margin:6px 0;"><strong>Startup:</strong> Vibestage</p>
+  <p style="margin:6px 0;"><strong>Producto:</strong> VibeStage</p>
+</div>
 
 <br>
 
-<p align="center">
-   <strong>Noviembre 2025</strong>
-</p>
+<div style="text-align:center;">
+  <h3>Integrantes:</h3>
 
+  <div style="display:flex; justify-content:center;">
+    <table style="border-collapse:collapse; width:520px; max-width:90%;">
+      <thead>
+        <tr>
+          <th style="border:1px solid #444; padding:10px; text-align:center;">Código</th>
+          <th style="border:1px solid #444; padding:10px; text-align:center;">Nombre</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="border:1px solid #444; padding:8px; text-align:center;">U201923571</td>
+          <td style="border:1px solid #444; padding:8px; text-align:left;">Llamccaya Arone, Juan Paul</td>
+        </tr>
+        <tr>
+          <td style="border:1px solid #444; padding:8px; text-align:center;">U201913495</td>
+          <td style="border:1px solid #444; padding:8px; text-align:left;">Cuya Villegas, Rafael Alberto</td>
+        </tr>
+        <tr>
+          <td style="border:1px solid #444; padding:8px; text-align:center;">U202216831</td>
+          <td style="border:1px solid #444; padding:8px; text-align:left;">Lapa de la Cruz, Gabriel Omar</td>
+        </tr>
+        <tr>
+          <td style="border:1px solid #444; padding:8px; text-align:center;">U202311828</td>
+          <td style="border:1px solid #444; padding:8px; text-align:left;">Landauri Preciado, Stephano</td>
+        </tr>
+        <tr>
+          <td style="border:1px solid #444; padding:8px; text-align:center;">U201919386</td>
+          <td style="border:1px solid #444; padding:8px; text-align:left;">Álvarez Ponce, Carlos Antonio</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p style="margin-top:28px;"><strong>Noviembre 2025</strong></p>
+</div>
 
 
 # Registro de Versiones del Informe
