@@ -1,66 +1,82 @@
-<!-- caratula.md -->
-<div style="text-align:center; margin-top: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="160" alt="UPC logo"><br><br>
+<!-- CARÁTULA (optimizada para GitHub) -->
 
-  <strong style="font-size:18px;">Universidad Peruana de Ciencias Aplicadas</strong><br>
-  <strong>Ingeniería de Software</strong><br><br>
+<!-- logo y títulos centrados -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150" alt="UPC logo"><br><br>
+  <strong style="font-size:24px;">Universidad Peruana de Ciencias Aplicadas</strong><br>
+  <strong style="font-size:18px;">Ingeniería de Software</strong>
+</p>
 
-  <div style="display:inline-block; text-align:left; max-width:650px;">
-    <p style="margin:8px 0;"><strong>Periodo:</strong> 202520</p>
-    <p style="margin:8px 0;"><strong>1ACC0238 | Aplicaciones para Dispositivos Móviles</strong></p>
-    <p style="margin:8px 0;"><strong>NRC:</strong> 1827</p>
-    <p style="margin:8px 0;"><strong>Docente:</strong> David Gerardo Quevedo Velasco</p>
-  </div>
-</div>
+<!-- bloque informativo: tabla centrada -->
+<table align="center" cellpadding="6" style="border-collapse:collapse; margin-top:18px;">
+  <tr>
+    <td style="text-align:left; padding:4px 12px;"><strong>Periodo:</strong></td>
+    <td style="text-align:left; padding:4px 12px;">202520</td>
+  </tr>
+  <tr>
+    <td style="text-align:left; padding:4px 12px;"><strong>1ACC0238 |</strong></td>
+    <td style="text-align:left; padding:4px 12px;">Aplicaciones para Dispositivos Móviles</td>
+  </tr>
+  <tr>
+    <td style="text-align:left; padding:4px 12px;"><strong>NRC:</strong></td>
+    <td style="text-align:left; padding:4px 12px;">1827</td>
+  </tr>
+  <tr>
+    <td style="text-align:left; padding:4px 12px;"><strong>Docente:</strong></td>
+    <td style="text-align:left; padding:4px 12px;">David Gerardo Quevedo Velasco</td>
+  </tr>
+</table>
 
-<hr style="width:80%; margin: 28px auto;">
+<hr style="width:80%; margin:26px auto;">
 
-<div style="text-align:center;">
-  <h2 style="margin: 8px 0;">Informe del TB2</h2>
-  <p style="margin:6px 0;"><strong>Startup:</strong> Vibestage</p>
-  <p style="margin:6px 0;"><strong>Producto:</strong> VibeStage</p>
-</div>
+<!-- título del informe -->
+<p align="center">
+  <strong style="font-size:20px;">Informe del TB2</strong>
+</p>
 
-<br>
+<!-- startup / producto -->
+<p align="center">
+  <strong>Startup:</strong> Vibestage<br>
+  <strong>Producto:</strong> VibeStage
+</p>
 
-<div style="text-align:center;">
-  <h3>Integrantes:</h3>
+<!-- tabla de integrantes centrada -->
+<p align="center">
+  <strong style="font-size:16px;">Integrantes:</strong>
+</p>
 
-  <div style="display:flex; justify-content:center;">
-    <table style="border-collapse:collapse; width:520px; max-width:90%;">
-      <thead>
-        <tr>
-          <th style="border:1px solid #444; padding:10px; text-align:center;">Código</th>
-          <th style="border:1px solid #444; padding:10px; text-align:center;">Nombre</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="border:1px solid #444; padding:8px; text-align:center;">U201923571</td>
-          <td style="border:1px solid #444; padding:8px; text-align:left;">Llamccaya Arone, Juan Paul</td>
-        </tr>
-        <tr>
-          <td style="border:1px solid #444; padding:8px; text-align:center;">U201913495</td>
-          <td style="border:1px solid #444; padding:8px; text-align:left;">Cuya Villegas, Rafael Alberto</td>
-        </tr>
-        <tr>
-          <td style="border:1px solid #444; padding:8px; text-align:center;">U202216831</td>
-          <td style="border:1px solid #444; padding:8px; text-align:left;">Lapa de la Cruz, Gabriel Omar</td>
-        </tr>
-        <tr>
-          <td style="border:1px solid #444; padding:8px; text-align:center;">U202311828</td>
-          <td style="border:1px solid #444; padding:8px; text-align:left;">Landauri Preciado, Stephano</td>
-        </tr>
-        <tr>
-          <td style="border:1px solid #444; padding:8px; text-align:center;">U201919386</td>
-          <td style="border:1px solid #444; padding:8px; text-align:left;">Álvarez Ponce, Carlos Antonio</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+<table align="center" style="border-collapse:collapse; width:520px; max-width:90%;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #999; padding:8px; text-align:center;">Código</th>
+      <th style="border:1px solid #999; padding:8px; text-align:center;">Nombre</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #999; padding:8px; text-align:center;">U201923571</td>
+      <td style="border:1px solid #999; padding:8px;">Llamccaya Arone, Juan Paul</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #999; padding:8px; text-align:center;">U201913495</td>
+      <td style="border:1px solid #999; padding:8px;">Cuya Villegas, Rafael Alberto</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #999; padding:8px; text-align:center;">U202216831</td>
+      <td style="border:1px solid #999; padding:8px;">Lapa de la Cruz, Gabriel Omar</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #999; padding:8px; text-align:center;">U202311828</td>
+      <td style="border:1px solid #999; padding:8px;">Landauri Preciado, Stephano</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #999; padding:8px; text-align:center;">U201919386</td>
+      <td style="border:1px solid #999; padding:8px;">Álvarez Ponce, Carlos Antonio</td>
+    </tr>
+  </tbody>
+</table>
 
-  <p style="margin-top:28px;"><strong>Noviembre 2025</strong></p>
-</div>
+<p align="center" style="margin-top:28px;"><strong>Noviembre 2025</strong></p>
 
 
 # Registro de Versiones del Informe
