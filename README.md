@@ -2108,6 +2108,44 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 **Landing Page**
 <img width="642" height="375" alt="Image" src="https://github.com/user-attachments/assets/1d0e925f-1722-41c9-9eaf-b9675ecaec3f" />
 
+
+#### 4.2.3. *Sprint 3*
+**4.2.3.1.** Sprint Planning 3
+
+| **Sprint #** | **Sprint 3** |
+|---------------|--------------|
+| **Sprint Planning Background** | |
+| **Date** | 24/11/2025 |
+| **Time** | 16:00 pm |
+| **Location** | Modalidad remota por Meet |
+| **Prepared By** | Equipo VibeStage |
+| **Attendees** | Todos los miembros del grupo VibeStage |
+| **Sprint n - 2 Review Summary** | Se agrego algunas secciones y mejoró nuestra **Landing Page** y realizamos una segunda versión de la **Aplicación móvil**, ambas alineadas con los objetivos del proyecto *VibeStage*. <br><br> **Landing Page:** Se agregaron imagenes de la aplicacion y se mejoro unos pequeños errores que presentaba <br><br> **Aplicación móvil:** Terminamos con la aplicacion en lenguaje Kotlin, tambien terminamos con el desarrollo de nuestro Backend.  <br><br> |
+| **Sprint n - 1 Retrospective Summary** | **Puntos positivos:** Se logró cumplir con del Sprint 1, entregando una experiencia funcional tanto en la web como en la app. Se consolidó la base de la arquitectura, diseño visual, navegación, e internacionalización. <br> **Aspectos destacados:** Se trabajo de manera exitosa el sprint <br> **Próximos pasos:** El principal es finalizar con lo correspondiente al Backend y comenzar la implementacion de nuestra App en lenguaje Flutter. |
+| **Sprint Goal & User Stories** | **Objetivo del Sprint 2:**Realizar correcciones y finalizar con el desarrollo de la version de Landing Page y App Móvil. También finalizar con el Backend de nuestra app y empezar con el desarrollo de nuestra aplicacion en lenguaje Flutter. <br><br> |
+| **Sprint 1 Velocity** | **Total de HU completadas:** 10   |  **Velocidad total:** 10 puntos |  **Estado general:** Sprint 2 completado con todos los entregables y alineados al MVP de VibeStage. |
+
+**4.2.3.2. Sprint Backlog 3**
+
+**4.2.3.3.** Development Evidence for Sprint Review
+
+**4.2.3.4.** Testing Suite Evidence for Sprint Review
+
+**4.2.3.5.** Execution Evidence for Sprint Review
+**Landing Page**
+
+**Mobile App**
+
+**Backend**
+
+**4.2.3.6.** Services Documentation Evidence for Sprint Review
+
+**4.2.3.7.** Software Deployment Evidence for Sprint Review
+
+**4.2.3.8.** Team Collaboration Insights during Sprint
+
+
+
 ### 4.3 Validation Interviews
 #### 4.3.1 Diseño de entrevistas
 
