@@ -2140,6 +2140,8 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 
 **4.2.3.6.** Services Documentation Evidence for Sprint Review
 
+Durante el Sprint 3 se consolidaron los avances técnicos del proyecto VibeStage mediante la documentación y actualización de los servicios implementados en el backend y la nueva versión del aplicación móvil desarrollada en Flutter. En esta etapa, se finalizaron los endpoints restantes vinculados a eventos, postulaciones, perfiles y pagos, y se extendió la funcionalidad del módulo de autenticación. Asimismo, se integraron las vistas funcionales de la app Flutter con los servicios del backend, permitiendo flujos reales de login, navegación, obtención de datos y gestión de usuarios. En la Landing Page se realizaron ajustes adicionales, incluyendo la implementación de la versión final del video “About the Team”, reforzando la presentación del proyecto y complementando las mejoras visuales y de contenido realizadas en sprints anteriores. Todo este trabajo fue gestionado con control de versiones constante, commits verificables y documentación alineada con las historias técnicas del sprint, garantizando calidad, continuidad y coherencia en el desarrollo del proyecto VibeStage.
+
 **4.2.3.7.** Software Deployment Evidence for Sprint Review
 
 **4.2.3.8.** Team Collaboration Insights during Sprint
