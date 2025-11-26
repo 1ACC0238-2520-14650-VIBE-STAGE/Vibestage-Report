@@ -2142,17 +2142,45 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 **4.2.3.4.** Testing Suite Evidence for Sprint Review
 
 **4.2.3.5.** Execution Evidence for Sprint Review
-**Landing Page**
 
-**Mobile App**
+**<br>Landing Page<br>**
 
-**Backend**
+<img width="1491" height="774" alt="image" src="https://github.com/user-attachments/assets/628fc7f0-514c-4aaf-a90a-06796fd8ffd2" />
+
+<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/000615db-1598-496e-82f5-9e756d7037e2" />
+
+<img width="1443" height="703" alt="image" src="https://github.com/user-attachments/assets/572920e7-5ae9-41ef-8fe3-32c0af2fba48" />
+
+<img width="1486" height="817" alt="image" src="https://github.com/user-attachments/assets/c02701b3-ae2b-4401-8f40-8f601ec53d15" />
+
+<img width="1498" height="817" alt="Image" src="https://github.com/user-attachments/assets/7dde20d1-45df-4c55-9fae-00f112c3218c" />
+
+<img width="1491" height="717" alt="image" src="https://github.com/user-attachments/assets/321419f2-6a31-412f-b1e4-021cbadc115e" />
+
+**<br>Mobile App**
+
+**<br>Vistas Artista<br>**
+![Image](https://github.com/user-attachments/assets/d982f6a4-aedd-4849-bc58-afc74c13b911) ![Image](https://github.com/user-attachments/assets/8c9db8e3-1400-4e45-9e4d-178ad5f206a7) ![Image](https://github.com/user-attachments/assets/f2a8bc50-f1be-41a8-9bd1-c3f86f03f72d) ![Image](https://github.com/user-attachments/assets/550b15ef-bfda-4a2a-8712-543c758df5c2) ![Image](https://github.com/user-attachments/assets/1dd1f3c0-1438-4985-9025-d367dc6c2514) ![Image](https://github.com/user-attachments/assets/cc586a26-a831-484b-8fc7-3e123486e969)
+![Image](https://github.com/user-attachments/assets/aa64fb5c-2ba8-4df8-890a-80f3efdad861) ![Image](https://github.com/user-attachments/assets/ba66f262-36b9-492a-ba07-85a38a24f5ad) ![Image](https://github.com/user-attachments/assets/20805870-74c8-4ad6-a19d-86f970b9f708) 
+
+**<br>Vistas Promotor<br>**
+
+![Image](https://github.com/user-attachments/assets/de8f7d2a-9f42-4d40-936a-49d8ae3f29f5) ![Image](https://github.com/user-attachments/assets/96dd58c2-090b-4505-895b-957ade57f901)  ![Image](https://github.com/user-attachments/assets/66490ca1-c213-458a-9f5e-0575303f6e24) ![Image](https://github.com/user-attachments/assets/892c3789-83b8-4767-9561-3355d4195f0d) ![Image](https://github.com/user-attachments/assets/9acb0d9c-9f19-4e98-a712-ff55885239a6) ![Image](https://github.com/user-attachments/assets/72508c2f-aad0-48af-b401-7a6906a6a864)
+
+**<br>Backend<br>**
+
+![Image](https://github.com/user-attachments/assets/8fd8e2cf-61b9-4289-bfe1-76826bf0e839)
+
+![Image](https://github.com/user-attachments/assets/8c5b5d07-efe5-49fd-ac39-accefc19af71)
+
+![Image](https://github.com/user-attachments/assets/fbe09557-8753-47b0-858f-c3ec87014efe)
 
 **4.2.3.6.** Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 3 se consolidaron los avances técnicos del proyecto VibeStage mediante la documentación y actualización de los servicios implementados en el backend y la nueva versión del aplicación móvil desarrollada en Flutter. En esta etapa, se finalizaron los endpoints restantes vinculados a eventos, postulaciones, perfiles y pagos, y se extendió la funcionalidad del módulo de autenticación. Asimismo, se integraron las vistas funcionales de la app Flutter con los servicios del backend, permitiendo flujos reales de login, navegación, obtención de datos y gestión de usuarios. En la Landing Page se realizaron ajustes adicionales, incluyendo la implementación de la versión final del video “About the Team”, reforzando la presentación del proyecto y complementando las mejoras visuales y de contenido realizadas en sprints anteriores. Todo este trabajo fue gestionado con control de versiones constante, commits verificables y documentación alineada con las historias técnicas del sprint, garantizando calidad, continuidad y coherencia en el desarrollo del proyecto VibeStage.
 
 **4.2.3.7.** Software Deployment Evidence for Sprint Review
+
 
 **4.2.3.8.** Team Collaboration Insights during Sprint
 
