@@ -2133,6 +2133,11 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 **4.2.3.2. Sprint Backlog 3**
 
 **4.2.3.3.** Development Evidence for Sprint Review
+| Repository            | Branch | Commit ID | Commit Message                                                                 | Commit Message Body | Committed on Date |
+|-----------------------|--------|-----------|---------------------------------------------------------------------------------|----------------------|-------------------|
+| vibe-stage-kotlin-app | master | d3ba34c   | feat: fix style                                                                 | -                    | 8 de octubre de 2025 |
+| vibe-stage-kotlin-app | master | 83b8379   | Agregar pantallas de presentación: artistas, promotores, auth y componentes comunes - Corregir scroll y alineamiento en múltiples pantallas | - | 8 de octubre de 2025 |
+| vibe-stage-kotlin-app | master | 384e98c   | feat: initial setup                                                             | -                    | 8 de octubre de 2025 |
 
 **4.2.3.4.** Testing Suite Evidence for Sprint Review
 
