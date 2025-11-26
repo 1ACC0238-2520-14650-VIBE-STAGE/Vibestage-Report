@@ -2120,10 +2120,10 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 | **Location** | Modalidad remota por Meet |
 | **Prepared By** | Equipo VibeStage |
 | **Attendees** | Todos los miembros del grupo VibeStage |
-| **Sprint n - 2 Review Summary** | Se agrego algunas secciones y mejoró nuestra **Landing Page** y realizamos una segunda versión de la **Aplicación móvil**, ambas alineadas con los objetivos del proyecto *VibeStage*. <br><br> **Landing Page:** Se agregaron imagenes de la aplicacion y se mejoro unos pequeños errores que presentaba <br><br> **Aplicación móvil:** Terminamos con la aplicacion en lenguaje Kotlin, tambien terminamos con el desarrollo de nuestro Backend.  <br><br> |
-| **Sprint n - 1 Retrospective Summary** | **Puntos positivos:** Se logró cumplir con del Sprint 1, entregando una experiencia funcional tanto en la web como en la app. Se consolidó la base de la arquitectura, diseño visual, navegación, e internacionalización. <br> **Aspectos destacados:** Se trabajo de manera exitosa el sprint <br> **Próximos pasos:** El principal es finalizar con lo correspondiente al Backend y comenzar la implementacion de nuestra App en lenguaje Flutter. |
-| **Sprint Goal & User Stories** | **Objetivo del Sprint 2:**Realizar correcciones y finalizar con el desarrollo de la version de Landing Page y App Móvil. También finalizar con el Backend de nuestra app y empezar con el desarrollo de nuestra aplicacion en lenguaje Flutter. <br><br> |
-| **Sprint 1 Velocity** | **Total de HU completadas:** 10   |  **Velocidad total:** 10 puntos |  **Estado general:** Sprint 2 completado con todos los entregables y alineados al MVP de VibeStage. |
+| **Sprint n - 3  Review Summary** | Se corrigió algunos erroes en nuestra **Landing Page** y realizamos la versión final de la **Aplicación móvil**. <br><br> **Landing Page:** Se corrigió algunos videos que no se veían <br><br> **Aplicación móvil:** Terminamos con la aplicacion en lenguaje Kotli y en Flutter. Tambien se realizo el despliegue de los artefactos restantes.  <br><br> |
+| **Sprint n - 2 Retrospective Summary** | **Puntos positivos:** Se logró cumplir con del Sprint 2, se entrego una versión funcional de nuestras aplicaciones tanto en Kotlin como en Flutter y se mejoro los demas artefactos. <br> **Aspectos destacados:** Se trabajo de manera exitosa el sprint <br> **Próximos pasos:** Despliegue de nuestras aplicaciones, segun rubrica y finalizar el proyecto. |
+| **Sprint Goal & User Stories** | **Objetivo del Sprint 2:** Finalizar con el desarrollo de nuestra aplicaciones. para proceder con el despliegue de las misma, proceder con el cierre exitoso del proyecto. <br><br> |
+| **Sprint 2 Velocity** | **Total de HU completadas:** 10   |  **Velocidad total:** 10 puntos |  **Estado general:** Sprint 2 completado con todos los entregables y alineados al MVP de VibeStage. |
 
 **4.2.3.2. Sprint Backlog 3**
 
@@ -2145,6 +2145,15 @@ Durante el Sprint 3 se consolidaron los avances técnicos del proyecto VibeStage
 **4.2.3.7.** Software Deployment Evidence for Sprint Review
 
 **4.2.3.8.** Team Collaboration Insights during Sprint
+
+En esta sección se presentarán las evidencias que reflejan el trabajo colaborativo realizado durante el desarrollo del sprint 3.
+
+**Report**
+
+
+**Landing Page**
+
+
 
 
 
