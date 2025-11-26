@@ -86,7 +86,7 @@
 | **TB1** | 18/09 | - Rafael Cuya Villegas<br>- Juan Paul Llamccaya Arone<br>- <br>- Gabriel Omar Lapa de la Cruz <br>- Stephano Landauri Preciado | Se han incluído los siguientes capítulos:<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Avance de Conclusiones, Bibliografía y Anexos |
 | **TP1** | 09/10 | - Rafael Cuya Villegas<br>- Juan Paul Llamccaya Arone<br>- Carlos Antonio Alvarez Ponce <br>- Gabriel Omar Lapa de la Cruz <br>- Stephano Landauri Preciado | Se han incluído los siguientes capítulos:<br>- Capítulo III: <br>- Capítulo IV: <br>- Avance de Conclusiones, Bibliografía y Anexos |
 | **TB2** | 13/11 | - Rafael Cuya Villegas<br>- Juan Paul Llamccaya Arone<br>- Carlos Antonio Alvarez Ponce  | Se han incluído lo correspondiente al sprint 2, video about the product y video about the team. |
-
+| **TB2** | 25/11 | - Rafael Cuya Villegas<br>- Juan Paul Llamccaya Arone<br>- Carlos Antonio Alvarez Ponce  <br>- Gabriel Omar Lapa de la Cruz <br>- Stephano Landauri Preciado | Se han incluído lo correspondiente al sprint 3,  video about the team y video de validación. |
 # Project Report Collaboration Insights
 
 URL Project Report (Github): https://github.com/Mayrzon02/1ACC0238-2520-14650-VIBESTAGE
@@ -102,6 +102,11 @@ TP1:
 TB2: 
 
 <img width="646" height="811" alt="Image" src="https://github.com/user-attachments/assets/f66ef678-45d0-4ef9-bc9b-145f3fc74fb4" />
+
+TF: 
+
+
+
 
 # Student Outcome
 
