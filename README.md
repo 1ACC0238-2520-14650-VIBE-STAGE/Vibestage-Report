@@ -2294,6 +2294,18 @@ Entrevistado #1
 | **Tiempo de inicio y duración** | 0:00 – 9:51 |
 | **Resumen** | Angela es una artista del ámbito musical que compartió su experiencia al usar la aplicación **VibeStage**, destacando su facilidad de uso, el diseño atractivo y la claridad del propósito dirigido a músicos. Señaló que el registro y la búsqueda de presentaciones son simples, valoró la utilidad de la agenda para organizar sus eventos y consideró muy importante la gestión digital de contratos y pagos. Finalmente, sugirió agregar un botón interactivo que haga la aplicación más dinámica y funcional para los artistas. |
 
+Entrevista #2
+
+| **Campo** | **Descripción** |
+|----------|------------------|
+| **Nombre del entrevistado** | Gianfranco Vega |
+| **Edad** | 20 años |
+| **Distrito** | San Borja |
+| **Screenshot de la entrevista** | <div align="center"><img src="assets/captura12.png" width="350"> |
+| **Link de la entrevista** | [Ver entrevista en YouTube](https://youtu.be/bgMbYHLDKqI) |
+| **Tiempo de inicio y duración** | 0:00 – 6:21 |
+| **Resumen** | Gianfranco es un músico emergente que comentó su experiencia utilizando VibeStage, resaltando que la plataforma le permitió entender de inmediato su propósito y a quién va dirigida. Mencionó que el proceso de registro y la exploración de shows disponibles le resultaron claros y directos, y que la agenda integrada le sería de gran ayuda para manejar sus presentaciones sin depender de métodos tradicionales. Además, destacó como muy útil recibir avisos sobre eventos próximos y consideró que el diseño visual es atractivo y adecuado para artistas. Como sugerencia, propuso evaluar ajustes en los planes ofrecidos para que reflejen mejor el valor del servicio. |
+
 **4.3.3.** Evaluaciones según heurísticas
 
 ## Conclusiones
