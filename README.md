@@ -2181,6 +2181,40 @@ Durante el Sprint 3 se consolidaron los avances técnicos del proyecto VibeStage
 
 **4.2.3.7.** Software Deployment Evidence for Sprint Review
 
+##  Landing-Page 
+Repositorio destinado a la página web informativa del proyecto. Incluye:
+
+- Estructura visual y contenido estático.  
+- Recursos de presentación del producto.  
+- Archivos de diseño empleando HTML, CSS y JavaScript (o el framework utilizado).
+
+Este repositorio puede desplegarse de manera independiente en servicios como GitHub Pages, Netlify o Vercel.
+
+---
+
+## vibe-stage-backend 
+Repositorio que contiene el backend desarrollado en TypeScript. Sus responsabilidades incluyen:
+
+- Implementación de la lógica del negocio.  
+- Gestión de autenticación y autorización.  
+- Exposición de endpoints del sistema.  
+- Conexión y manejo de la base de datos.  
+- Servicios consumidos por la aplicación móvil.
+
+Su independencia permite realizar despliegues separados 
+
+---
+
+## vibe-stage-kotlin-app 
+
+
+- Interfaces y pantallas.  
+- Implementación de flujos de usuario.  
+- Conexión con la API backend.  
+- Arquitectura móvil (por ejemplo, MVVM).
+
+Contar con un repositorio separado permite gestionar versiones y despliegues sin afectar otros componentes.
+
 
 **4.2.3.8.** Team Collaboration Insights during Sprint
 
