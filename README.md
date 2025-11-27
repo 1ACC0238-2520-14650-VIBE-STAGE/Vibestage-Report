@@ -2269,9 +2269,9 @@ Estas preguntas nos ayudarán a conocer la experiencia del usuario con la plataf
 
 **Artista:**
 
-1. ¿Al ingresar a la landing page entendiste fácilmente qué ofrece **VibeStage** y a quién está dirigida la plataforma?  
-2. ¿Te pareció atractiva la presentación visual de la landing (colores, tipografía, secciones)?  
-3. ¿Qué tan fácil te resultó registrarte y crear tu perfil como artista dentro de la aplicación móvil?  
+1. ¿Al ingresar a la app **VibeStage** comprendiste claramente su propósito?  
+2. ¿Te pareció atractiva la presentación visual de la app (colores, tipografía, secciones)?  
+3. ¿Te pareció fácil el registrarte y crear tu perfil como artista dentro de la aplicación móvil?  
 4. ¿La app te ayudó a entender rápidamente cómo buscar y postular a presentaciones?  
 5. ¿Te parece útil que la aplicación muestre tus shows confirmados y pendientes en una agenda digital?  
 6. ¿Consideras importante que los contratos y pagos se gestionen digitalmente dentro de la app?  
