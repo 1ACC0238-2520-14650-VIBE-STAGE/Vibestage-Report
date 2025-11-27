@@ -2306,6 +2306,19 @@ Entrevista #2
 | **Tiempo de inicio y duración** | 0:00 – 6:21 |
 | **Resumen** | Gianfranco es un músico emergente que comentó su experiencia utilizando VibeStage, resaltando que la plataforma le permitió entender de inmediato su propósito y a quién va dirigida. Mencionó que el proceso de registro y la exploración de shows disponibles le resultaron claros y directos, y que la agenda integrada le sería de gran ayuda para manejar sus presentaciones sin depender de métodos tradicionales. Además, destacó como muy útil recibir avisos sobre eventos próximos y consideró que el diseño visual es atractivo y adecuado para artistas. Como sugerencia, propuso evaluar ajustes en los planes ofrecidos para que reflejen mejor el valor del servicio. |
 
+Entrevista #3
+
+| **Campo** | **Descripción** |
+|----------|------------------|
+| **Nombre del entrevistado** | Sebastian Rivera |
+| **Edad** | 23 años |
+| **Distrito** | San Luis |
+| **Screenshot de la entrevista** | <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/c451e414-0d9c-432c-b70e-85e742ae5561" /> |
+| **Link de la entrevista** | [Ver entrevista en YouTube](https://youtu.be/84zeCTsMYug) |
+| **Tiempo de inicio y duración** | 0:00 – 17:01 |
+| **Resumen** | Sebastián es estudiante de música y músico independiente, especializado en canto lírico. Compartió con nosotros su experiencia utilizando VibeStage y señaló que la aplicación le resulta bastante adecuada y cumple con su propósito. Asimismo, mencionó algunos puntos de mejora que podrían enriquecer la plataforma y sugirió la posibilidad de ampliar el mercado, abriendo nuevos segmentos objetivos para llegar a un público más amplio. Finalmente, destacó que la aplicación le pareció muy fácil de usar y que ofrece opciones de gran utilidad. |
+
+
 **4.3.3.** Evaluaciones según heurísticas
 
 ## Conclusiones
