@@ -2331,6 +2331,35 @@ En varias etapas del proyecto fue evidente que no bastaba con lo que ya conocía
 Trabajo colaborativo en GitHub:
 El uso de GitHub como repositorio compartido nos ayudó a organizarnos mejor y a trabajar de manera colaborativa. Cada integrante pudo aportar sus cambios, revisarlos y corregirlos, evitando confusiones y pérdidas de información. Esto fortaleció la dinámica del equipo y nos dio una experiencia práctica en el manejo de proyectos colaborativos con control de versiones.
 
+## Bibliografía
+
+Frenneaux, R. (2023). The rise of independent artists and the paradox of democratisation in the digital age: Challenges faced by music artists in the new music industry. *DIY, Alternative Cultures & Society, 1*(2), 125–137.  
+[https://doi.org/10.1177/27538702231174200](https://doi.org/10.1177/27538702231174200)
+
+Joseph, F. J. (2024). Streaming forward: Adoption considerations for the major recorded music markets in CARICOM. *Convergence, 30*(3), 1236–1253.  
+[https://doi.org/10.1177/13548565231203983](https://doi.org/10.1177/13548565231203983)
+
+León-Garrido, A., Llorente-Cejudo, M. C., & Barroso-Osuna, J. M. (2024). Design and validation of an evaluation instrument for mobile music apps through expert judgment [Diseño y validación de un instrumento de evaluación para apps móviles musicales a través del juicio de expertos]. *Res Mobilis, 53*(2), 169–179.  
+[https://doi.org/10.17811/rifie.20620](https://doi.org/10.17811/rifie.20620)
+
+Maqbool, M. H., Farooq, U., Mosharrof, A., & Siddique, A. B. (2023). MobileRec: A large-scale dataset for mobile apps recommendation. *SIGIR 2023 – Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval*, 3007–3016.  
+[https://doi.org/10.1145/3539618.3591906](https://doi.org/10.1145/3539618.3591906)
+
+Singharia, K., & Gupta, G. (2025). Music streaming app service quality (MSASQ) scale: Service quality dimensions for music streaming apps. *Benchmarking*.  
+[https://doi.org/10.1108/BIJ-01-2024-0051](https://doi.org/10.1108/BIJ-01-2024-0051)
+
+Spanu, M., & Sillamaa, V. (2025). European music export organizations as hybrid policy instruments: Navigating cultural, trade and soft power agendas. *International Journal of Cultural Policy*.  
+[https://doi.org/10.1080/10286632.2025.2531208](https://doi.org/10.1080/10286632.2025.2531208)
+
+Vayanou, M., Katifori, A., Antoniou, A., Loumos, G., & Ioannidis, Y. (2025). ArtStory Beats: Highlighting interactions between visual arts and music with storytelling. *Journal on Computing and Cultural Heritage, 18*(1).  
+[https://doi.org/10.1145/3702006](https://doi.org/10.1145/3702006)
+
+van der Hoeven, A., & Hitters, E. (2023). Live music and the New Urban Agenda: Social, economic, environmental and spatial sustainability in live music ecologies. *City, Culture and Society, 32*.  
+[https://doi.org/10.1016/j.ccs.2022.100490](https://doi.org/10.1016/j.ccs.2022.100490)
+
+Watson, A. (2024). Supporting regional music production clusters in the post-pandemic era: Placing business support at the heart of local cultural policy. *International Journal of Cultural Policy, 30*(5), 667–681.  
+[https://doi.org/10.1080/10286632.2023.2251034](https://doi.org/10.1080/10286632.2023.2251034)
+
 ## Anexos
 - Landing-Page: https://1acc0238-2520-14650-vibe-stage.github.io/Landing-Page/ 
 
