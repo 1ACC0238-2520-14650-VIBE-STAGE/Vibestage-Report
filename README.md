@@ -2318,6 +2318,20 @@ Entrevista #3
 | **Tiempo de inicio y duración** | 0:00 – 17:01 |
 | **Resumen** | Sebastián es estudiante de música y músico independiente, especializado en canto lírico. Compartió con nosotros su experiencia utilizando VibeStage y señaló que la aplicación le resulta bastante adecuada y cumple con su propósito. Asimismo, mencionó algunos puntos de mejora que podrían enriquecer la plataforma y sugirió la posibilidad de ampliar el mercado, abriendo nuevos segmentos objetivos para llegar a un público más amplio. Finalmente, destacó que la aplicación le pareció muy fácil de usar y que ofrece opciones de gran utilidad. |
 
+#### Segmento Promotores
+
+Entrevistado #1
+
+| **Campo**                     | **Descripción** |
+|------------------------------|------------------|
+| **Nombre del entrevistado**  | Jhony de la Cruz |
+| **Edad**                     | 45 años |
+| **Distrito**                 | Villa el Salvador |
+| **Screenshot de la entrevista** | <div align="center"><img src="https://github.com/user-attachments/assets/be9fe645-670e-4c1d-bf2e-f9ed81c556fa" width="350"> |
+| **Link de la entrevista**    | [Ver entrevista en YouTube](https://youtu.be/orUwlQtVN2k) |
+| **Tiempo de inicio y duración** | 0:00 – 8:53 |
+| **Resumen** | Jhony es un promotor de eventos que encontró que **VibeStage** comunica claramente su propósito y ofrece una interfaz sencilla de usar. Destacó que el registro, la revisión de postulaciones y la gestión de eventos resultan claros y útiles para su trabajo. Consideró valiosa la promoción automática y sugirió añadir más opciones dentro de cada evento para hacerlo más atractivo para el público. |
+
 
 **4.3.3.** Evaluaciones según heurísticas
 
