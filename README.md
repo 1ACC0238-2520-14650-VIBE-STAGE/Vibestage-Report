@@ -2141,6 +2141,48 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 
 **4.2.3.4.** Testing Suite Evidence for Sprint Review
 
+### Experiencia visual
+| Área          | ID      | Prueba   | Notas |
+|---------------|---------|----------|-------|
+| Navigation    | VX-N1   | CR-3     | Back/gesto estándar con NavHost; sin prompts personalizados. |
+| Navigation    | VX-N2   | CR-3     | Gestos de back funcionan al no interceptarse. |
+| Navigation    | VX-N3   | CR-1/3/5 | No hay perdida de datos al rotar. |
+| IU y gráficos | VX-U1   | CR-5     | No hay perdida de datos al rotar. |
+| IU y gráficos | VX-U2   | CR-5     | No hay perdida de datos al rotar.|
+| IU y gráficos | VX-U3   | CR-5     | No hay perdida de datos al rotar. |
+| Calidad visual| VX-V1   | CR-all   | Se muestra todo con claridad |
+| Calidad visual| VX-V2   | CR-all   | No se corta texto |
+| Calidad visual| VX-V3   | CR-all   | Tema oscuro aplicado. |
+| Accesibilidad | VX-A2   | CR-all   | Verificamos contraste (texto gris/dorado sobre fondo oscuro). |
+| Accesibilidad | VX-A3   | CR-all   | No hay `contentDescription` en iconos informativos. |
+
+
+### Rendimiento y estabilidad
+| Área         | ID     | Prueba        | Notas |
+|--------------|--------|---------------|-------|
+| Estabilidad  | PS-S1  | CR-all/SD-1   | Requiere pruebas en dispositivo. |
+| Rendimiento  | PS-P1  | CR-all/SD-1   | No toma largos tiempos. |
+| Rendimiento  | PS-P2  | CR-all/SD-1   | Profiling HWUI. |
+| Rendimiento  | PS-P3  | PM-1          | Probar con StrictMode. |
+| SDK          | PS-T1  | CR-0          | compile/targetSdk 36. |
+| SDK          | PS-T2  | SP-1          | targetSdk 36. |
+| SDK          | PS-T3  | SP-1          | compileSdk 36. |
+| SDK          | PS-T6  | SP-2          | No hay libs de depuración. |
+
+
+### Privacidad y seguridad
+| Área         | ID       | Prueba  | Notas |
+|--------------|----------|---------|-------|
+| Permisos     | SC-P1..5 | SC-4/CR-0 | Manifest sin permisos sensibles. |
+| Datos/archivos | SC-DF1 | SC-1    | Almacenamiento interno (DataStore). |
+| Datos/archivos | SC-DF2 | SC-10   | No logging de datos sensibles visible. |
+| Datos/archivos | SC-DF3 |         | No uso de IDs de hardware. |
+| Componentes  | SC-AC2   | CR-0/SC-4 | Validar intents seguros si se exponen. |
+| Ejecución    | SC-E1    |         | Sin carga de código dinámico. |
+
+
+
+
 **4.2.3.5.** Execution Evidence for Sprint Review
 
 **<br>Landing Page<br>**
