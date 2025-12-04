@@ -2132,6 +2132,30 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 
 **4.2.3.2. Sprint Backlog 3**
 
+En esta sección se detallan los User Stories asignados al Sprint junto con los Work-Items/Tasks correspondientes.
+
+| **Sprint #** | **Sprint 3** |
+|--------------|--------------|
+
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------|-------------|----------------|------------------|-------------------------|------------------|-------------|
+| US21 | Pantallas iniciales de la app Kotlin | T61 | Configuración inicial del proyecto | Setup base del proyecto Android/Kotlin. | 3 | Stephano Landauri | Done |
+|  |  | T62 | Crear pantallas de presentación (artistas, promotores, auth) | Implementación de vistas iniciales y componentes comunes. | 6 | Carlos Álvarez | Done |
+|  |  | T63 | Corrección de scroll, estilos y alineamientos | Ajustes visuales y de interacción. | 3 | Carlos Álvarez | Done |
+| US27 | Navegación y estabilidad de la app | T64 | Implementar navegación base (NavHost) | Configurar navegación principal y gestos estándar. | 4 | Gabriel Lapa | Done |
+|  |  | T65 | Manejo de rotación sin pérdida de datos | Asegurar persistencia de estado en UI. | 3 | Gabriel Lapa | Done |
+| US30 | Optimización visual y accesibilidad | T66 | Ajustar tema oscuro y estilos globales | Corrección de colores, sombras y tipografías. | 2 | Rafael Cuya | Done |
+|  |  | T67 | Verificación de accesibilidad | Contraste y revisión de iconos sin contentDescription. | 2 | Carlos Álvarez | Done |
+| US34 | Estabilidad y rendimiento | T68 | Pruebas de rendimiento (HWUI / StrictMode) | Profiling, logs y ajustes de performance. | 4 | Juan Paul Llamccaya | In-Process |
+|  |  | T69 | Validación en dispositivo real | Pruebas de estabilidad en hardware físico. | 3 | Rafael Cuya | To-Do |
+| US40 | Servicios Backend (Sprint 3) | T70 | Finalizar endpoints de eventos, postulaciones, perfiles y pagos | Consolidación de la API y nuevos módulos. | 6 | Stephano Landauri | Done |
+|  |  | T71 | Extender módulo de autenticación | Actualizar flujos de login y manejo de tokens. | 4 | Rafael Cuya | Done |
+|  |  | T72 | Integración backend ↔ app Flutter | Conectar vistas funcionales con endpoints reales. | 6 | Stephano Landauri | In-Process |
+| US41 | App Flutter – Integración inicial | T73 | Integrar login móvil con backend | Conexión del formulario con la API. | 3 | Gabriel Lapa | In-Process |
+|  |  | T74 | Integrar navegación y obtención de datos | Consumo de endpoints y rutas principales. | 4 | Carlos Álvarez | To-Do |
+| US45 | Landing Page – Ajustes finales | T75 | Implementar versión final del video “About the Team” | Integración en la sección correspondiente. | 2 | Rafael Cuya | Done |
+|  |  | T76 | Ajustes visuales complementarios | Correcciones de contenido y estilo. | 2 | Juan Paul Llamccaya | Done |
+
 **4.2.3.3.** Development Evidence for Sprint Review
 | Repository            | Branch | Commit ID | Commit Message                                                                 | Commit Message Body | Committed on Date |
 |-----------------------|--------|-----------|---------------------------------------------------------------------------------|----------------------|-------------------|
@@ -2322,7 +2346,7 @@ Estas preguntas nos ayudarán a conocer la experiencia del usuario con la plataf
 
 **4.3.2.** Registro de Entrevistas  
 
-#### Segmento Administrador de locales
+#### Segmento Artista
 
 Entrevistado #1
 
@@ -2374,8 +2398,176 @@ Entrevistado #1
 | **Tiempo de inicio y duración** | 0:00 – 8:53 |
 | **Resumen** | Jhony es un promotor de eventos que encontró que **VibeStage** comunica claramente su propósito y ofrece una interfaz sencilla de usar. Destacó que el registro, la revisión de postulaciones y la gestión de eventos resultan claros y útiles para su trabajo. Consideró valiosa la promoción automática y sugirió añadir más opciones dentro de cada evento para hacerlo más atractivo para el público. |
 
+## Entrevistado #2
+
+| **Campo**                     | **Descripción** |
+|------------------------------|------------------|
+| **Nombre del entrevistado**  | Diego Ramírez Huamán |
+| **Edad**                     | 24 años |
+| **Distrito**                 | Jesús María |
+| **Screenshot de la entrevista** | <div align="center"><img src="https://github.com/user-attachments/assets/7d9c298a-943e-4b63-8fb1-7b5f0fab11e7" width="350"></div> |
+| **Link de la entrevista**    | [Ver entrevista en YouTube](https://youtu.be/G8KpG8cZ0zA) |
+| **Tiempo de inicio y duración** | 0:00 – 3:02 |
+| **Resumen** | Diego es un artista independiente que usa plataformas digitales para autopromoción. Mencionó que la landing page le pareció clara y directa, permitiéndole entender rápidamente que VibeStage conecta artistas y locales. Dijo que el proceso de registro y creación del perfil fue sencillo, especialmente la parte de agregar redes y descripción artística. Encontró útil la función de postulación rápida y la vista de seguimiento de postulaciones. Sugirió permitir una vista previa del perfil tal como lo ven los promotores. |
+
+
+## Entrevistado #3
+
+| **Campo**                     | **Descripción** |
+|------------------------------|------------------|
+| **Nombre del entrevistado**  | José Antonio Llontop |
+| **Edad**                     | 25 años |
+| **Distrito**                 | Cercado de Lima |
+| **Screenshot de la entrevista** | <div align="center"><img src="https://github.com/user-attachments/assets/44cc8c5b-18c6-4ee0-bf26-4c3d6e483d63" width="350"></div> |
+| **Link de la entrevista**    | [Ver entrevista en YouTube](https://youtu.be/r8k_m8lR7d4) |
+| **Tiempo de inicio y duración** | 0:00 – 3:15 |
+| **Resumen** | José Antonio es promotor y encargado de programación musical en un bar local. Comentó que la landing page comunica correctamente la propuesta de valor y le transmitió confianza. Valoró la claridad del proceso para crear su cuenta y registrar su local. Indicó que la revisión de postulaciones fue entendible y rápida. Destacó la utilidad de la vista de eventos categorizados. Como mejora, sugirió incluir notificaciones instantáneas para nuevas postulaciones. |
 
 **4.3.3.** Evaluaciones según heurísticas
+
+Para evaluar la usabilidad de la landing page y de los flujos principales de la aplicación móvil VibeStage, se aplicaron las **10 heurísticas de Nielsen**, analizando la experiencia tanto del segmento *Artistas* como de *Promotores*. A continuación se presenta la evaluación detallada por cada heurística, junto con los hallazgos y oportunidades de mejora identificados durante las entrevistas.
+
+---
+
+## 1. Visibilidad del estado del sistema
+**Evaluación:**  
+La plataforma notifica adecuadamente acciones como creación de cuenta, postulaciones enviadas y estados de eventos. Los entrevistados destacaron que los cambios de estado (pendiente, aceptado, rechazado) se muestran de forma clara.
+
+**Hallazgos:**  
+- Buena visibilidad en la agenda de eventos y en “Mis Postulaciones”.  
+- Algunos usuarios solicitaron una vista previa para artistas y notificaciones más rápidas para promotores.
+
+**Oportunidad de mejora:**  
+➤ Incorporar *feedback instantáneo* al realizar acciones (postular, aceptar, rechazar) mediante microanimaciones o alertas breves.
+
+---
+
+## 2. Relación entre el sistema y el mundo real
+**Evaluación:**  
+La app utiliza vocabulario natural para ambos segmentos (“postular”, “mis eventos”, “contrataciones”), lo que reduce la curva de aprendizaje.
+
+**Hallazgos:**  
+- Conceptos como “promoción automática” y “agenda digital” son comprendidos intuitivamente.  
+- La landing page comunica claramente la propuesta de valor.
+
+**Oportunidad de mejora:**  
+➤ Incluir ejemplos visuales de eventos, perfiles y postulaciones para reforzar el entendimiento de procesos.
+
+---
+
+## 3. Control y libertad del usuario
+**Evaluación:**  
+Los usuarios pueden navegar hacia atrás, cambiar secciones y revisar estados sin perder datos.
+
+**Hallazgos:**  
+- La navegación es clara tanto en Android como en los prototipos de Flutter.  
+- No existe aún una función explícita de “cancelar postulación”, lo que podría ser necesario.
+
+**Oportunidad de mejora:**  
+➤ Agregar opciones de deshacer acciones recientes en postulaciones o eventos.
+
+---
+
+## 4. Consistencia y estándares
+**Evaluación:**  
+La interfaz mantiene coherencia visual en colores, tipografía y jerarquía. Las pantallas siguen patrones modernos y consistentes.
+
+**Hallazgos:**  
+- Los entrevistados resaltaron que el diseño es atractivo y uniforme.  
+- La sección de promotores coincide bien con los patrones de apps administrativas.
+
+**Oportunidad de mejora:**  
+➤ Unificar el estilo de algunos botones secundarios y avisos para mantener coherencia al 100%.
+
+---
+
+## 5. Prevención de errores
+**Evaluación:**  
+Las acciones críticas (registro, creación de eventos, postulaciones) están bien guiadas y minimizan entradas incorrectas.
+
+**Hallazgos:**  
+- No se observaron errores frecuentes en las entrevistas.  
+- Algunos usuarios mencionaron que sería útil confirmar acciones como rechazar artistas.
+
+**Oportunidad de mejora:**  
+➤ Añadir confirmaciones claras antes de rechazar o eliminar datos sensibles.
+
+---
+
+## 6. Reconocer antes que recordar
+**Evaluación:**  
+El sistema evita la sobrecarga cognitiva mostrando accesos directos, estados visibles y filtros claros.
+
+**Hallazgos:**  
+- La agenda y las categorías de eventos funcionan bien como referencia.  
+- Los artistas entienden rápidamente dónde ver sus próximas presentaciones.
+
+**Oportunidad de mejora:**  
+➤ Incluir tooltips o microtutoriales para usuarios nuevos.
+
+---
+
+## 7. Flexibilidad y eficiencia de uso
+**Evaluación:**  
+El sistema funciona bien tanto para usuarios nuevos como frecuentes. Los flujos son rápidos y requieren pocos pasos.
+
+**Hallazgos:**  
+- La postulación rápida es una de las funciones más valoradas.  
+- Los promotores pueden revisar varias postulaciones con agilidad.
+
+**Oportunidad de mejora:**  
+➤ Añadir accesos directos personalizados según el historial del usuario.
+
+---
+
+## 8. Estética y diseño minimalista
+**Evaluación:**  
+La interfaz mantiene un diseño moderno, sobrio y visualmente agradable. No hay saturación de elementos.
+
+**Hallazgos:**  
+- Los usuarios destacaron claridad, orden y atractivo visual.  
+- Los colores y tipografía favorecen la lectura.
+
+**Oportunidad de mejora:**  
+➤ Revisar algunas pantallas secundarias para reducir elementos no esenciales.
+
+---
+
+## 9. Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores
+**Evaluación:**  
+Aunque el sistema es estable, aún falta incluir mensajes detallados ante errores específicos de conexión o fallas de carga.
+
+**Hallazgos:**  
+- Algunos entrevistados mencionaron que no encontraron mensajes de error visibles en ciertas acciones.  
+- La estabilidad general es buena.
+
+**Oportunidad de mejora:**  
+➤ Implementar mensajes descriptivos como “no se pudo cargar el evento” o “revisa tu conexión”.
+
+---
+
+## 10. Ayuda y documentación
+**Evaluación:**  
+La plataforma aún no cuenta con un módulo de ayuda o sección de soporte.
+
+**Hallazgos:**  
+- La app es intuitiva y los usuarios la entendieron sin tutoriales.  
+- Sin embargo, un espacio de guía beneficiaría a nuevos usuarios.
+
+**Oportunidad de mejora:**  
+➤ Incluir una sección de preguntas frecuentes (FAQ), contactos de soporte y videotutoriales breves.
+
+---
+
+# Conclusión General
+
+La landing page y la aplicación móvil de VibeStage presentan una experiencia de usuario sólida, intuitiva y bien adaptada a las necesidades de artistas y promotores. Las entrevistas y la evaluación heurística muestran que:
+
+- Los flujos principales son claros y fáciles de usar.  
+- La propuesta de valor se comprende rápidamente.  
+- El diseño visual resulta atractivo para ambos segmentos.
+
+Las mejoras recomendadas apuntan a fortalecer el feedback del sistema, la personalización y el soporte para nuevos usuarios, garantizando una experiencia aún más robusta.
 
 ## Conclusiones
 Actualización constante:
