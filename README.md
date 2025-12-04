@@ -2250,18 +2250,18 @@ Durante el Sprint 3 se consolidaron los avances técnicos del proyecto VibeStage
 
 **4.2.3.7.** Software Deployment Evidence for Sprint Review
 
-##  Landing-Page 
+## Landing-Page  
 Repositorio destinado a la página web informativa del proyecto. Incluye:
 
 - Estructura visual y contenido estático.  
 - Recursos de presentación del producto.  
 - Archivos de diseño empleando HTML, CSS y JavaScript (o el framework utilizado).
 
-Este repositorio puede desplegarse de manera independiente en servicios como GitHub Pages, Netlify o Vercel.
+Este repositorio puede desplegarse de manera independiente en servicios como **GitHub Pages**, Netlify o Vercel.
 
 ---
 
-## vibe-stage-backend 
+## vibe-stage-backend  
 Repositorio que contiene el backend desarrollado en TypeScript. Sus responsabilidades incluyen:
 
 - Implementación de la lógica del negocio.  
@@ -2270,19 +2270,19 @@ Repositorio que contiene el backend desarrollado en TypeScript. Sus responsabili
 - Conexión y manejo de la base de datos.  
 - Servicios consumidos por la aplicación móvil.
 
-Su independencia permite realizar despliegues separados 
+El backend será desplegado en **Railway**, ya que permite configuraciones rápidas, despliegues automáticos desde GitHub y una infraestructura ligera que se adapta bien a entornos de desarrollo y pruebas. Su simplicidad y soporte para bases de datos lo convierten en una opción eficiente para mantener la API disponible.
 
 ---
 
-## vibe-stage-kotlin-app 
+## vibe-stage-kotlin-app  
+Repositorio que contiene la aplicación móvil desarrollada en Kotlin. Incluye:
 
-
-- Interfaces y pantallas.  
+- Interfaces y pantallas de la aplicación.  
 - Implementación de flujos de usuario.  
 - Conexión con la API backend.  
 - Arquitectura móvil (por ejemplo, MVVM).
 
-Contar con un repositorio separado permite gestionar versiones y despliegues sin afectar otros componentes.
+El despliegue del frontend móvil se realizará mediante **Firebase App Distribution**, lo que permite distribuir versiones internas del aplicativo a testers y stakeholders de forma rápida y controlada. Firebase facilita la entrega continua y garantiza un proceso seguro para validar nuevas funcionalidades antes de su publicación oficial.
 
 
 **4.2.3.8.** Team Collaboration Insights during Sprint
