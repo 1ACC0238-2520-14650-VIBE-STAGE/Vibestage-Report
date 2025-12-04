@@ -86,7 +86,8 @@
 | **TB1** | 18/09 | - Rafael Cuya Villegas<br>- Juan Paul Llamccaya Arone<br>- <br>- Gabriel Omar Lapa de la Cruz <br>- Stephano Landauri Preciado | Se han incluído los siguientes capítulos:<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Avance de Conclusiones, Bibliografía y Anexos |
 | **TP1** | 09/10 | - Rafael Cuya Villegas<br>- Juan Paul Llamccaya Arone<br>- Carlos Antonio Alvarez Ponce <br>- Gabriel Omar Lapa de la Cruz <br>- Stephano Landauri Preciado | Se han incluído los siguientes capítulos:<br>- Capítulo III: <br>- Capítulo IV: <br>- Avance de Conclusiones, Bibliografía y Anexos |
 | **TB2** | 13/11 | - Rafael Cuya Villegas<br>- Juan Paul Llamccaya Arone<br>- Carlos Antonio Alvarez Ponce  | Se han incluído lo correspondiente al sprint 2, video about the product y video about the team. |
-| **TB2** | 25/11 | - Rafael Cuya Villegas<br>- Juan Paul Llamccaya Arone<br>- Carlos Antonio Alvarez Ponce  <br>- Gabriel Omar Lapa de la Cruz <br>- Stephano Landauri Preciado | Se han incluído lo correspondiente al sprint 3,  video about the team y video de validación. |
+| **TF** | 1/12 | - Rafael Cuya Villegas<br>- Juan Paul Llamccaya Arone<br>- Carlos Antonio Alvarez Ponce  <br>- Gabriel Omar Lapa de la Cruz <br>- Stephano Landauri Preciado | Se han incluído lo correspondiente al sprint 3,  video about the team y video de validación. |
+
 # Project Report Collaboration Insights
 
 URL Project Report (Github): https://github.com/Mayrzon02/1ACC0238-2520-14650-VIBESTAGE
@@ -2288,11 +2289,23 @@ En esta sección se presentarán las evidencias que reflejan el trabajo colabora
 
 **Report**
 
+<img width="759" height="324" alt="Image" src="https://github.com/user-attachments/assets/f920d2ad-53d8-46d5-b2dd-3902583e14ce" />
 
 **Landing Page**
 
+<img width="759" height="324" alt="Image" src="https://github.com/user-attachments/assets/2409142a-a94f-4207-9270-3819a30391af" />
 
+**Kotlin App**
 
+<img width="759" height="324" alt="Image" src="https://github.com/user-attachments/assets/db4a1de8-e4bb-4e7e-8d9c-f39a81d22a4d" />
+
+**Flutter App**
+
+<img width="759" height="324" alt="Image" src="https://github.com/user-attachments/assets/cee639e1-a80c-45fe-9d2d-399c40b36fe9" />
+
+**Backend**
+
+<img width="759" height="324" alt="Image" src="https://github.com/user-attachments/assets/221ca64f-d11b-4888-9ae3-885eff92104b" />
 
 
 ### 4.3 Validation Interviews
@@ -2438,7 +2451,7 @@ La plataforma notifica adecuadamente acciones como creación de cuenta, postulac
 - Algunos usuarios solicitaron una vista previa para artistas y notificaciones más rápidas para promotores.
 
 **Oportunidad de mejora:**  
-➤ Incorporar *feedback instantáneo* al realizar acciones (postular, aceptar, rechazar) mediante microanimaciones o alertas breves.
+- Incorporar *feedback instantáneo* al realizar acciones (postular, aceptar, rechazar) mediante microanimaciones o alertas breves.
 
 ---
 
@@ -2451,7 +2464,7 @@ La app utiliza vocabulario natural para ambos segmentos (“postular”, “mis 
 - La landing page comunica claramente la propuesta de valor.
 
 **Oportunidad de mejora:**  
-➤ Incluir ejemplos visuales de eventos, perfiles y postulaciones para reforzar el entendimiento de procesos.
+- Incluir ejemplos visuales de eventos, perfiles y postulaciones para reforzar el entendimiento de procesos.
 
 ---
 
@@ -2464,7 +2477,7 @@ Los usuarios pueden navegar hacia atrás, cambiar secciones y revisar estados si
 - No existe aún una función explícita de “cancelar postulación”, lo que podría ser necesario.
 
 **Oportunidad de mejora:**  
-➤ Agregar opciones de deshacer acciones recientes en postulaciones o eventos.
+- Agregar opciones de deshacer acciones recientes en postulaciones o eventos.
 
 ---
 
@@ -2477,7 +2490,7 @@ La interfaz mantiene coherencia visual en colores, tipografía y jerarquía. Las
 - La sección de promotores coincide bien con los patrones de apps administrativas.
 
 **Oportunidad de mejora:**  
-➤ Unificar el estilo de algunos botones secundarios y avisos para mantener coherencia al 100%.
+- Unificar el estilo de algunos botones secundarios y avisos para mantener coherencia al 100%.
 
 ---
 
@@ -2490,7 +2503,7 @@ Las acciones críticas (registro, creación de eventos, postulaciones) están bi
 - Algunos usuarios mencionaron que sería útil confirmar acciones como rechazar artistas.
 
 **Oportunidad de mejora:**  
-➤ Añadir confirmaciones claras antes de rechazar o eliminar datos sensibles.
+- Añadir confirmaciones claras antes de rechazar o eliminar datos sensibles.
 
 ---
 
@@ -2503,7 +2516,7 @@ El sistema evita la sobrecarga cognitiva mostrando accesos directos, estados vis
 - Los artistas entienden rápidamente dónde ver sus próximas presentaciones.
 
 **Oportunidad de mejora:**  
-➤ Incluir tooltips o microtutoriales para usuarios nuevos.
+- Incluir tooltips o microtutoriales para usuarios nuevos.
 
 ---
 
@@ -2516,7 +2529,7 @@ El sistema funciona bien tanto para usuarios nuevos como frecuentes. Los flujos 
 - Los promotores pueden revisar varias postulaciones con agilidad.
 
 **Oportunidad de mejora:**  
-➤ Añadir accesos directos personalizados según el historial del usuario.
+- Añadir accesos directos personalizados según el historial del usuario.
 
 ---
 
@@ -2529,7 +2542,7 @@ La interfaz mantiene un diseño moderno, sobrio y visualmente agradable. No hay 
 - Los colores y tipografía favorecen la lectura.
 
 **Oportunidad de mejora:**  
-➤ Revisar algunas pantallas secundarias para reducir elementos no esenciales.
+- Revisar algunas pantallas secundarias para reducir elementos no esenciales.
 
 ---
 
@@ -2542,7 +2555,7 @@ Aunque el sistema es estable, aún falta incluir mensajes detallados ante errore
 - La estabilidad general es buena.
 
 **Oportunidad de mejora:**  
-➤ Implementar mensajes descriptivos como “no se pudo cargar el evento” o “revisa tu conexión”.
+- Implementar mensajes descriptivos como “no se pudo cargar el evento” o “revisa tu conexión”.
 
 ---
 
@@ -2555,7 +2568,7 @@ La plataforma aún no cuenta con un módulo de ayuda o sección de soporte.
 - Sin embargo, un espacio de guía beneficiaría a nuevos usuarios.
 
 **Oportunidad de mejora:**  
-➤ Incluir una sección de preguntas frecuentes (FAQ), contactos de soporte y videotutoriales breves.
+- Incluir una sección de preguntas frecuentes (FAQ), contactos de soporte y videotutoriales breves.
 
 ---
 
