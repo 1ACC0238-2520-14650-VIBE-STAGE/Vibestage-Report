@@ -31,7 +31,7 @@
 
 <!-- título del informe -->
 <p align="center">
-  <strong style="font-size:20px;">Informe del TB2</strong>
+  <strong style="font-size:20px;">Informe del Trabajo Final </strong>
 </p>
 
 <!-- startup / producto -->
