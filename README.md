@@ -2270,7 +2270,7 @@ Repositorio que contiene el backend desarrollado en TypeScript. Sus responsabili
 - Conexión y manejo de la base de datos.  
 - Servicios consumidos por la aplicación móvil.
 
-El backend será desplegado en **Railway**, ya que permite configuraciones rápidas, despliegues automáticos desde GitHub y una infraestructura ligera que se adapta bien a entornos de desarrollo y pruebas. Su simplicidad y soporte para bases de datos lo convierten en una opción eficiente para mantener la API disponible.
+El backend será desplegado en **Render**, ya que ofrece un entorno sencillo de configurar, soporte para despliegues automáticos desde GitHub y una infraestructura estable que permite mantener la API publicada con mínima intervención. Render facilita la administración del servicio, el monitoreo básico y la disponibilidad continua del backend durante las etapas de desarrollo y pruebas.
 
 ---
 
