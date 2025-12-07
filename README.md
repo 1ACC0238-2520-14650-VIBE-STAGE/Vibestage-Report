@@ -1,83 +1,47 @@
-<!-- CARÁTULA (optimizada para GitHub) -->
+<!-- CARÁTULA OFICIAL UPC – TRABAJO FINAL -->
 
-<!-- logo y títulos centrados -->
+<!-- Logo y títulos centrados -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150" alt="UPC logo"><br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="200" alt="UPC logo"><br><br>
   <strong style="font-size:24px;">Universidad Peruana de Ciencias Aplicadas</strong><br>
   <strong style="font-size:18px;">Ingeniería de Software</strong>
 </p>
 
-<!-- bloque informativo: tabla centrada -->
-<table align="center" cellpadding="6" style="border-collapse:collapse; margin-top:18px;">
-  <tr>
-    <td style="text-align:left; padding:4px 12px;"><strong>Periodo:</strong></td>
-    <td style="text-align:left; padding:4px 12px;">202520</td>
-  </tr>
-  <tr>
-    <td style="text-align:left; padding:4px 12px;"><strong>1ACC0238 |</strong></td>
-    <td style="text-align:left; padding:4px 12px;">Aplicaciones para Dispositivos Móviles</td>
-  </tr>
-  <tr>
-    <td style="text-align:left; padding:4px 12px;"><strong>NRC:</strong></td>
-    <td style="text-align:left; padding:4px 12px;">14650</td>
-  </tr>
-  <tr>
-    <td style="text-align:left; padding:4px 12px;"><strong>Docente:</strong></td>
-    <td style="text-align:left; padding:4px 12px;">Eduardo Martín Reyes Rodríguez</td>
-  </tr>
-</table>
+<!-- Información del curso -->
+<p align="center">
+  <strong>Periodo:</strong> 202520<br>
+  <strong>1ACC0238|</strong> Aplicaciones para Dispositivos Móviles<br>
+  <strong>NRC:</strong> 14650<br>
+  <strong>Docente:</strong> Eduardo Martín Reyes Rodríguez<br>
+</p>
 
 <hr style="width:80%; margin:26px auto;">
 
 <!-- título del informe -->
 <p align="center">
-  <strong style="font-size:20px;">Informe del Trabajo Final </strong>
+  <strong style="font-size:20px;">Informe del Trabajo Final</strong>
 </p>
 
 <!-- startup / producto -->
 <p align="center">
-  <strong>Startup:</strong> Vibestage<br>
+  <strong>Startup:</strong> VibeStage<br>
   <strong>Producto:</strong> VibeStage
 </p>
 
-<!-- tabla de integrantes centrada -->
-<p align="center">
-  <strong style="font-size:16px;">Integrantes:</strong>
+<!-- Integrantes -->
+
+<div align="center">U201919386 - Álvarez Ponce, Carlos Antonio</div>
+<div align="center">U201913495 - Cuya Villegas, Rafael Alberto</div>
+<div align="center">U202311828 - Landauri Preciado, Stephano</div>
+<div align="center">U202216831 - Lapa de la Cruz, Gabriel Omar</div>
+<div align="center">U201923571 - Llamccaya Arone, Juan Paul</div>
+
+<br>
+
+<!-- Mes y año -->
+<p align="center" style="margin-top:60px;">
+  <strong>Diciembre 2025</strong>
 </p>
-
-<table align="center" style="border-collapse:collapse; width:520px; max-width:90%;">
-  <thead>
-    <tr>
-      <th style="border:1px solid #999; padding:8px; text-align:center;">Código</th>
-      <th style="border:1px solid #999; padding:8px; text-align:center;">Nombre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #999; padding:8px; text-align:center;">U201923571</td>
-      <td style="border:1px solid #999; padding:8px;">Llamccaya Arone, Juan Paul</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #999; padding:8px; text-align:center;">U201913495</td>
-      <td style="border:1px solid #999; padding:8px;">Cuya Villegas, Rafael Alberto</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #999; padding:8px; text-align:center;">U202216831</td>
-      <td style="border:1px solid #999; padding:8px;">Lapa de la Cruz, Gabriel Omar</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #999; padding:8px; text-align:center;">U202311828</td>
-      <td style="border:1px solid #999; padding:8px;">Landauri Preciado, Stephano</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #999; padding:8px; text-align:center;">U201919386</td>
-      <td style="border:1px solid #999; padding:8px;">Álvarez Ponce, Carlos Antonio</td>
-    </tr>
-  </tbody>
-</table>
-
-<p align="center" style="margin-top:28px;"><strong>Noviembre 2025</strong></p>
-
 
 # Registro de Versiones del Informe
 
