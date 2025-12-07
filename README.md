@@ -15,7 +15,7 @@
   <strong>Docente:</strong> Eduardo Martín Reyes Rodríguez<br>
 </p>
 
-<hr style="width:80%; margin:26px auto;">
+<hr style="width:60%; margin:13px auto;">
 
 <!-- título del informe -->
 <p align="center">
