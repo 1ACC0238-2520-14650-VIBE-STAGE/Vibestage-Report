@@ -43,6 +43,28 @@
   <strong>Diciembre 2025</strong>
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
 # Registro de Versiones del Informe
 
 | Versión | Fecha             | Autor                                                                                                                                                     | Descripción de modificación                                                                                                                                                                                                                                                                                                                                        |
